@@ -1,6 +1,5 @@
 # Crop Classification through Deep Learning
 
-## Overview
 In agriculture, the precise recommendation of crops is pivotal in ensuring optimal yield and sustainability. This project leverages deep learning techniques to classify crops based on various soil and environmental factors.
 
 ## Problem Statement
